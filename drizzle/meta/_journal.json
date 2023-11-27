@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1701083179326,
+      "tag": "0000_bizarre_doctor_doom",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1701084711330,
+      "tag": "0002_boring_microchip",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1701086819177,
+      "tag": "0003_thin_boomerang",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1701088349830,
+      "tag": "0004_acoustic_mockingbird",
+      "breakpoints": true
+    }
+  ]
+}
